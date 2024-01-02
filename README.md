@@ -1,4 +1,4 @@
-# Next.js App Router Revalidation Issue
+# Next App Router Revalidation Issue
 
 Minimal reproduction, showing Next.js not respecting `revalidate` and `dynamic` settings.
 
